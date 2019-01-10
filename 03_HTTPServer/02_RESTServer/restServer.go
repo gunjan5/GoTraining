@@ -7,6 +7,7 @@ import (
 	"os"
 )
 
+// Useful tool for this: https://mholt.github.io/json-to-go/
 type Pair struct {
 	Key   string `json:"key,omitempty"`
 	Value string `json:"value,omitempty"`

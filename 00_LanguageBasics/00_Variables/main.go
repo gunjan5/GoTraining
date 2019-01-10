@@ -19,6 +19,7 @@ func main() {
 	fmt.Println(age)
 	fmt.Println(name)
 	fmt.Println(legal)
+	fmt.Println("🤪  🤪  🤪  🤪  🤪")
 
 	// Declare variables and initialize.
 	// Using the short variable declaration operator.
